@@ -11,7 +11,6 @@ It provides actionable insights into:
 - Inventory and Fulfillment Operations  
 - Regional and Time-based Trends
 
----
 
 🔑 **Key Components:**  
 ----------------------------
@@ -22,7 +21,6 @@ It provides actionable insights into:
 - Inventory and Warehousing Data  
 - Customer and Fulfillment Metrics  
 
----
 
 🌟 **Dashboard Highlights:** 
 ---------------------------------
@@ -36,7 +34,6 @@ Interactive visualizations offering a 360° view of:
 📌 Regional Heat Maps for Sales Performance  
 📌 Customer Demand Fluctuations by Time
 
----
 
 📈 **KPIs and Metrics:** 
 ---------------------------
@@ -49,7 +46,6 @@ Interactive visualizations offering a 360° view of:
 ✅ Regional Sales Contribution  
 ✅ Product Category Performance  
 
----
 
 🎯 **Purpose of the Project:** 
 ---------------------------------
@@ -59,7 +55,6 @@ Interactive visualizations offering a 360° view of:
 📌 Identify high-performing products and areas  
 📌 Analyze stock levels and movement for optimization  
 
----
 
 🛠️ **Tools Used:**  
 -----------------------
